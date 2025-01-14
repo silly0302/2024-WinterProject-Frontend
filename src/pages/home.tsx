@@ -1,6 +1,6 @@
 import { useState } from "react";
 import NavigationBar from "@/widgets/header";
-import style from "@/pages/Home.module.css";
+import style from "@/styles/Home.module.css";
 import Image from "next/image";
 
 export default function Home() {
